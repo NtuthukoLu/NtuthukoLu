@@ -16,7 +16,7 @@
 </p>
 
 ## <b>`A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **Proficient software engineer, honed at ALX-Holberton School, specialized in Back-end mastery.**
+- **Software engineer, honed at ALX-Holberton School, specialized in Back-end.**
 - **UNISA student studying BSC in Mathematical Sciences majoring in Computer Sciences**
 - **Favorite mantra: "Got to do better"**
 - **Reach out at ntuthukolu@gmail.com or WhatsApp +27798661334**
